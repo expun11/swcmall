@@ -1856,6 +1856,14 @@ body {
 .cid-rgrhdAL5tT .mbr-crt-title {
   text-align: center;
 }
+.cid-rpI5TUUf3H {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rpI5TUUf3H .mbr-section-subtitle {
+  color: #767676;
+}
 .cid-rgrjhIQZsl .modal-body .close {
   background: #1b1b1b;
 }
@@ -2281,6 +2289,9 @@ body {
 }
 .cid-rpBm5BoLeh .copyright > p {
   text-align: center;
+}
+.cid-rpBm5BoLeh I {
+  color: #149dcc;
 }
 .cid-rgrghWuqeP .navbar {
   background: #ff3366;
